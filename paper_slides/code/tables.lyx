@@ -88,7 +88,7 @@
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard
@@ -226,6 +226,10 @@ Note: Table notes
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\noindent
 \begin_inset Float table
 placement H
 wide false

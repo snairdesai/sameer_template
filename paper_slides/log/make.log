@@ -1,10 +1,9 @@
 --------------------------------------------------------------------------------
-Makelog started: 2022-07-14 15:03:58
+Makelog started: 2022-07-14 15:12:44
 Working directory: /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
 External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
-/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/analysis/output/regression_rev.csv
 /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/data/output/chips_sold.pdf

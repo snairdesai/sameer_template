@@ -31,5 +31,7 @@ gs.check_conda_status(root = ROOT)
 
 ### RUN SCRIPTS
 gs.run_module(root = ROOT, module = 'data')
+os.chdir('..')
 gs.run_module(root = ROOT, module = 'analysis')
+os.chdir('..')
 gs.run_module(root = ROOT, module = 'paper_slides')

@@ -1,13 +1,13 @@
 --------------------------------------------------------------------------------
-Makelog started: 2021-09-13 14:22:41
-Working directory: /Users/zahedian/Documents/template/data
+Makelog started: 2022-07-14 13:45:17
+Working directory: /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/data
 --------------------------------------------------------------------------------
 Input links successfully created!
 External links successfully created!
 Source logs successfully written!
-Executing command: `python  "/Users/zahedian/Documents/template/data/code/merge_data.py" `
-Executing command: `python  "/Users/zahedian/Documents/template/data/code/clean_data.py" `
-/Users/zahedian/Documents/template/data/code/clean_data.py:17: SettingWithCopyWarning: 
+Executing command: `python  "/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/data/code/merge_data.py" `
+Executing command: `python  "/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/data/code/clean_data.py" `
+/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/data/code/clean_data.py:17: SettingWithCopyWarning: 
 A value is trying to be set on a copy of a slice from a DataFrame
 
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
@@ -15,6 +15,6 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2021-09-13 14:22:45
-Working directory: /Users/zahedian/Documents/template/data
+Makelog ended: 2022-07-14 13:45:22
+Working directory: /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/data
 --------------------------------------------------------------------------------

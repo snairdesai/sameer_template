@@ -1,57 +1,56 @@
 --------------------------------------------------------------------------------
-Makelog started: 2021-09-13 14:22:50
-Working directory: /Users/zahedian/Documents/template/paper_slides
+Makelog started: 2022-07-14 13:45:27
+Working directory: /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
 External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
-/Users/zahedian/Documents/template/analysis/output/regression.csv
-/Users/zahedian/Documents/template/data/output/chips_sold.pdf
-Executing command: `lyx -e pdf2 "/Users/zahedian/Documents/template/paper_slides/code/paper.lyx"`
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/data/output/chips_sold.pdf
+Executing command: `lyx -e pdf2 "/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides/code/paper.lyx"`
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
 (./paper.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
 (./paper.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
 
-Executing command: `lyx -e pdf2 "/Users/zahedian/Documents/template/paper_slides/code/online_appendix.lyx"`
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+Executing command: `lyx -e pdf2 "/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides/code/online_appendix.lyx"`
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
 (./online_appendix.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
 (./online_appendix.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
 
-Executing command: `lyx -e pdf2 "/Users/zahedian/Documents/template/paper_slides/code/slides.lyx"`
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+Executing command: `lyx -e pdf2 "/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides/code/slides.lyx"`
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
 (./slides.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
 (./slides.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2021-09-13 14:22:59
-Working directory: /Users/zahedian/Documents/template/paper_slides
+Makelog ended: 2022-07-14 13:45:33
+Working directory: /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides
 --------------------------------------------------------------------------------

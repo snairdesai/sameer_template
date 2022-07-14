@@ -1,56 +1,10 @@
 --------------------------------------------------------------------------------
-Makelog started: 2022-07-14 13:45:27
+Makelog started: 2022-07-14 15:03:58
 Working directory: /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
 External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
+/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/analysis/output/regression_rev.csv
 /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/data/output/chips_sold.pdf
-Executing command: `lyx -e pdf2 "/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides/code/paper.lyx"`
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
- restricted \write18 enabled.
-entering extended mode
-(./paper.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
- restricted \write18 enabled.
-entering extended mode
-(./paper.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-
-Executing command: `lyx -e pdf2 "/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides/code/online_appendix.lyx"`
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
- restricted \write18 enabled.
-entering extended mode
-(./online_appendix.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
- restricted \write18 enabled.
-entering extended mode
-(./online_appendix.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-
-Executing command: `lyx -e pdf2 "/Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides/code/slides.lyx"`
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
- restricted \write18 enabled.
-entering extended mode
-(./slides.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex)
- restricted \write18 enabled.
-entering extended mode
-(./slides.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-
-Output logs successfully written!
---------------------------------------------------------------------------------
-Makelog ended: 2022-07-14 13:45:33
-Working directory: /Users/sameernd/Desktop/SIEPR_RA/sameer_template/template/paper_slides
---------------------------------------------------------------------------------

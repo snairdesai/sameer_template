@@ -6,11 +6,17 @@ from linearmodels import PanelOLS
 def main():
     df = import_data()
     fit = run_regression(df)
+    fit_rev = run_regression(df = df[df['year']>=1960])
     formatted = format_model(fit)
+    formatted_rev = format_model(fit_rev)
     
     with open('output/regression.csv', 'w') as f:
         f.write('<tab:regression>' + '\n')
         formatted.to_csv(f, sep = '\t', index = False, header = False)
+
+    with open('output/regression_rev.csv', 'w') as f:
+        f.write('<tab:regression_rev>' + '\n')
+        formatted_rev.to_csv(f, sep = '\t', index = False, header = False)
     
 def import_data():
     df = pd.read_csv('input/data_cleaned.csv')

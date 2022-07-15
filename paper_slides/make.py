@@ -39,7 +39,7 @@ gs.get_modified_sources(PATHS, inputs + externals)
 
 ### FILL TABLES
 gs.tablefill(template = 'code/tables.lyx', 
-             inputs   = 'input/regression.csv', 
+             inputs   = ['input/regression.csv', 'input/regression_rev.csv'], 
              output   = 'output/tables_filled.lyx')
 
 ### RUN SCRIPTS

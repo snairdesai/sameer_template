@@ -6,7 +6,7 @@ from linearmodels import PanelOLS
 def main():
     df = import_data()
     fit = run_regression(df)
-    fit_rev = run_regression(df[df['year']>=1960])
+    fit_rev = run_regression(df = df[df['year']>=1960])
     formatted = format_model(fit)
     formatted_rev = format_model(fit_rev)
     
@@ -16,7 +16,7 @@ def main():
 
     with open('output/regression_rev.csv', 'w') as f:
         f.write('<tab:regression_rev>' + '\n')
-        formatted.to_csv(f, sep = '\t', index = False, header = False)
+        formatted_rev.to_csv(f, sep = '\t', index = False, header = False)
     
 def import_data():
     df = pd.read_csv('input/data_cleaned.csv')
@@ -24,7 +24,7 @@ def import_data():
     
     return(df)
 
-def run_regression():
+def run_regression(df):
     df = df.set_index(['county_id', 'year'])
     model = PanelOLS.from_formula('chips_sold ~ 1 + post_tv + EntityEffects + TimeEffects', data = df)
     fit = model.fit()
